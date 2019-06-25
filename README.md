@@ -19,7 +19,6 @@ We tested this hypothesis by examining the skewness and kurtosis of the low-vol 
 ############### What we are currently working on: #################################
 1. Write the component finding fucntion for a given date
 2. Rank and give scores for components
-3. Get CRSP & Compustat Mkt Cap Data
 
 
 ############### Update on 17/06/2019 ##############################################
